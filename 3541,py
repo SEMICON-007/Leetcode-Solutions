@@ -1,0 +1,16 @@
+class Solution:
+    def maxFreqSum(self, s: str) -> int:
+        vowel_freq = [0]
+        consonant_freq = [0]
+
+        for character in s:
+            if character in ("a", "e", "i", "o", "u"):
+                vowel_freq.append(s.count(character))
+            else:
+                consonant_freq.append(s.count(character))
+
+        return max(vowel_freq) + max(consonant_freq)
+
+
+solution = Solution()
+print(solution.maxFreqSum("aeiaeia"))
