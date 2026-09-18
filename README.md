@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [2485-find-the-pivot-integer](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3270-find-the-key-of-the-numbers](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Array
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+## Prefix Sum
+|  |
+| ------- |
+| [2485-find-the-pivot-integer](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 <!---LeetCode Topics End-->
