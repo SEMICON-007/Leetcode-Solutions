@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Combinatorics
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
