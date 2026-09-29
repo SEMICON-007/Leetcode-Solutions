@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3270-find-the-key-of-the-numbers](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
 | ------- |
