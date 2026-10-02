@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
