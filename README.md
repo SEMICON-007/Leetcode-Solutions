@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1492-the-kth-factor-of-n](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
