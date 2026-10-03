@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
 | [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [1227-airplane-seat-assignment-probability](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [1492-the-kth-factor-of-n](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [1227-airplane-seat-assignment-probability](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Stack
 |  |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 | [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
@@ -120,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
