@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2485-find-the-pivot-integer](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2485-find-the-pivot-integer) |
+| [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3270-find-the-key-of-the-numbers](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3270-find-the-key-of-the-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -75,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Nim Game
 |  |
 | ------- |
