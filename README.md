@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0292-nim-game) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
 |  |
 | ------- |
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3674-minimum-operations-to-equalize-array](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3674-minimum-operations-to-equalize-array) |
 <!---LeetCode Topics End-->
