@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0412-fizz-buzz) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3227-vowels-game-in-a-string](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/3227-vowels-game-in-a-string) |
 ## Brainteaser
 |  |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 ## Prime Factorization
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1227-airplane-seat-assignment-probability](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/1227-airplane-seat-assignment-probability) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/SEMICON-007/Leetcode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
